@@ -8,6 +8,8 @@ A passionate EE software developer<br>
 
 [![](https://visitcount.itsvg.in/api?id=yezzfusl&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🎨 My Animated Banner:
+![Animated Banner](https://i.giphy.com/usXZmmgP9Z7kf39fnq.webp)
 ---
 
 <!-- Centered and sized images -->
@@ -15,5 +17,4 @@ A passionate EE software developer<br>
     <img src="https://cdn-icons-png.flaticon.com/512/7787/7787238.png" width="150" alt="Image 1"/>
     <img src="https://cdn-icons-png.flaticon.com/512/10633/10633613.png" width="150" alt="Image 2"/>
 </div>
-## 🎨 My Animated Banner:
-![Animated Banner](https://i.giphy.com/usXZmmgP9Z7kf39fnq.webp)
+
